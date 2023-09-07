@@ -1,0 +1,5 @@
+This folder collects scripts/utilities modules
+for side products of tcbench
+
+- generate_datasets_schemas.xyz are used to create YAML
+    files describing the curated dataset parquet files
